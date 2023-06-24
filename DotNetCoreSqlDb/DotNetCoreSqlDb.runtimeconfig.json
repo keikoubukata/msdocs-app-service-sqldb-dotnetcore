@@ -1,0 +1,9 @@
+{
+    "runtimeOptions": {
+      "tfm": "net7.0",
+      "framework": {
+        "name": "net7.0",
+        "version": "7.0"
+      }
+    }
+  }
